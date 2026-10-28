@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Rivoli Kebab">
+  <rect width="32" height="32" rx="7" fill="#141210"/>
+  <path d="M16 6.2 22.2 22.4H9.8Z" fill="#E39B3A"/>
+  <rect x="15.15" y="4.2" width="1.7" height="23.2" rx="0.85" fill="#F6F1E8"/>
+  <rect x="8.2" y="23.6" width="15.6" height="3.1" rx="1.1" fill="#1F9A55"/>
+</svg>

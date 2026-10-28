@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Rivoli Kebab",
+      "hasCanvas": false,
+      "bodyTextLen": 571,
+      "bodyTextHash": "8c48e82448db6d5b40ba6864e0c21f7ea43d6c657f0a952c13c95d8ed1a91c96",
+      "bodyTextPrefix": "RIVOLI KEBAB DE EN TR Hier bestellen & kontaktlos bezahlen Döner",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Rivoli Kebab",
+      "hasCanvas": false,
+      "bodyTextLen": 571,
+      "bodyTextHash": "8c48e82448db6d5b40ba6864e0c21f7ea43d6c657f0a952c13c95d8ed1a91c96",
+      "bodyTextPrefix": "RIVOLI KEBAB DE EN TR Hier bestellen & kontaktlos bezahlen Döner",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
